@@ -24,4 +24,4 @@ such as phishing, malware attacks, and suspicious activities.
 2. Open index.html in browser
 
 ## Author
-College Project – Smart India Hackathon Problem Statement
+ Project – Smart India Hackathon Problem Statement
